@@ -57,4 +57,5 @@ main함수에서는 Board 구조체와 누구의 차례인지를 결정하는 �
 누군가의 착수가 끝나면 보드판의 상황을 읽어 1이면 플레이어의 패배, -1이면 플
 레이어의 승리, 0이면 무승부임을 출력한다.<br><br><br>
 
-● 결과 / 결과 분석<br><br>
+● 결과 / 결과 분석<br><br>![Aspose Words 2e910239-4522-40d5-ab9b-17c0d2bb6ff5 001](https://user-images.githubusercontent.com/112921582/221408316-d3c7b6a1-97d3-4c5b-a3c1-4edbd763e3a5.jpeg)
+
