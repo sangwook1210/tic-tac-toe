@@ -1,0 +1,5 @@
+﻿  bst.c
+C:\Users\choryun\Desktop\BST_OX_GAME\BST_OX_GAME\bst.c(102,21): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\choryun\Desktop\BST_OX_GAME\BST_OX_GAME\bst.c(207,21): warning C4244: '함수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\choryun\Desktop\BST_OX_GAME\BST_OX_GAME\bst.c(203): warning C4715: 'cpu_chacksu': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  BST_OX_GAME.vcxproj -> C:\Users\choryun\Desktop\BST_OX_GAME\Debug\BST_OX_GAME.exe
